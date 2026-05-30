@@ -3,6 +3,7 @@ __pycache__/
 config.json
 cookie.txt
 cookie.json
-.env
 .idea
 .DS_Store
+config.bat
+node_modules
